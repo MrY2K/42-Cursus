@@ -7,6 +7,12 @@
 -->
 
 # 🚀 My 42 School Journey Journal
+graph TD
+  A[Start: The Piscine] --> B[Libft]
+  B --> C[Get Next Line]
+  C --> D[Minishell]
+  D --> E[Push Swap]
+  E --> F[Advanced Projects]
 
 Welcome to my personal journal documenting my adventure through the 42 school curriculum – a place where learning is hands-on, peer-driven, and totally unconventional. Here, I capture my projects, milestones, and the fun (and sometimes wild) challenges I face on my path to becoming a coding wizard.
 
