@@ -1,87 +1,82 @@
-![Dig Deeper](https://x.com/i/status/1902399711098642516.gif)
-
+![Dig Deeper](https://assets.objkt.media/file/assets-003/QmegtcNbwXnu6T53dqWz4DLjTU287kCaafsDH5mJyxKgaY/artifact)
 > From: @_1mposter
-
-# 🚀 My 42 School Journey Journal
-graph TD
-  A[Start: The Piscine] --> B[Libft]
-  B --> C[Get Next Line]
-  C --> D[Minishell]
-  D --> E[Push Swap]
-  E --> F[Advanced Projects]
-
-Welcome to my personal journal documenting my adventure through the 42 school curriculum – a place where learning is hands-on, peer-driven, and totally unconventional. Here, I capture my projects, milestones, and the fun (and sometimes wild) challenges I face on my path to becoming a coding wizard.
 
 ---
 
-## 🌟 The 42 Experience
-
-At 42, there are no classes, no teachers – just pure project-based learning and collaboration. Every project is a stepping stone that pushes my boundaries, and every failure is just another lesson learned.
+## My 42 Experience
 
 <details>
-  <summary><strong>🎯 Key Milestones</strong></summary>
+  <summary><strong>-> Key Milestones <-</strong></summary>
 
   - **Piscine:** The intense bootcamp that kickstarted my journey.
   - **Libft:** Crafting my own C library to master fundamentals.
+  - **Bor2BeRoot:** the best way to get into Sytem Admin Shenanigans.
   - **Get Next Line:** Conquering file I/O and memory management.
-  - **Minishell:** Building a fully functional shell with an amazing team.
   - **Push Swap:** Optimizing algorithms with creative problem-solving.
-  - **Cub3D:** Diving into graphics and game development.
+  - **Fdf:** A Nice intro to graphics programming.
+  - **Minishell:** Building a fully functional shell with an amazing team.
+
   - **…and many more epic projects!**
 </details>
 
 ---
 
-## 🛠️ Projects & Toolkit
+## Projects & Toolkit
 
 I work with a mix of languages, tools, and methodologies that make every project a new adventure:
 
 - **Languages:** C, C++, Bash, Python, and more.
 - **Tools:** Git, VS Code, custom 42 utilities.
 - **Method:** Peer-to-peer learning, self-driven problem solving, and continuous improvement.
+- **Projects Structure**  
+```bash
+project/
+├── doc/            # Documentation and ressousrces
+├── lib/            # Libft: my costume implementation of C Standard Lib - First Project
+├── build/          # Intermediate build files (e.g., object files)
+├── include/        # Header files (.h)
+├── src/            # Source files (.c)
+	main.c
+	├── utils         # other functions
+	├── helper        # helper functions
+├── Testers         # Unit testing
+├── Makefile        # Build instructions
+└── README.md       # Project overview
+```
 
 ---
 
 ## 🎨 Visual Journey
 
-I believe visuals tell a story. Here’s a snapshot of my journey so far:
+[![Tree of Life](https://observablehq.com/@d3/tree-of-life)](https://observablehq.com/@d3/tree-of-life)
 
-![My 42 Journey](https://via.placeholder.com/800x200?text=My+42+School+Journey)  
-*(Replace this image with your own visual if you’d like!)*
 
 ---
 
-## ⚡ Fun Facts & Achievements
+## Fun Facts & Achievements
 
-- **Projects Completed:** Over *X* exciting projects (and counting!)
+- **Projects Completed:** Over *7* exciting projects (and counting!)
 - **Community:** Joined an incredible network of passionate coders.
 - **Mindset:** Embraced the idea that every failure is a step toward success.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+[![achoukri's 42 stats](https://badge.mediaplus.ma/greenbinary/achoukri)](https://github.com/oakoudad/badge42)
 
 ---
 
-## 🚀 What’s Next?
+## What’s Next?
 
 My journey is far from over. I plan to:
-- Tackle advanced projects that challenge conventional limits.
-- Experiment with new technologies and innovative solutions.
-- Continue sharing insights and lessons learned with this vibrant community.
+- Minishell.
 
 Stay tuned for regular updates as I navigate the ups and downs of the 42 school cursus!
 
 ---
 
-## 🤝 Let’s Connect!
+## Let’s Connect!
 
 I love collaborating and exchanging ideas. Feel free to reach out or follow my journey:
 
-- [GitHub](https://github.com/MrY2K)
 - [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
 - [Twitter](https://twitter.com/YOUR_TWITTER)
 
 ---
-
-> “Learning is a treasure that will follow its owner everywhere.” – Chinese Proverb
-
-*Thanks for stopping by my 42 School Journey Journal – let’s build the future of code together!*
