@@ -1,4 +1,4 @@
-![Dig Deeper](https://assets.objkt.media/file/assets-003/QmegtcNbwXnu6T53dqWz4DLjTU287kCaafsDH5mJyxKgaY/artifact.gif)
+![Dig Deeper](https://assets.objkt.media/file/assets-003/QmegtcNbwXnu6T53dqWz4DLjTU287kCaafsDH5mJyxKgaY/artifact)
 > From: @_1mposter
 
 ---
